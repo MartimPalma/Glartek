@@ -9,7 +9,7 @@
 
 -----
 
-### Como é que isto está organizado?
+### Como é que está organizado?
 
   * `src/api/`: Onde está o ficheiro que faz a ligação com a API do backend (`cronApi.js`)
   * `src/components/`: Aqui estão todos os componentes reutilizáveis para montar as páginas

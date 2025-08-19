@@ -12,7 +12,7 @@
 - **node-cron**: ferramenta para agendar as tarefas para elas correrem sozinhas
 - **axios**:  pedidos HTTP
 
-### Como é que isto está organizado?
+### Como é que está organizado?
 
 Organizei tudo por pastas
 
